@@ -1,3 +1,16 @@
-output
-work
+# Runtime and grading artifacts
+/output/
+/work/
+/pred.txt
+
+# Python bytecode/cache
 *.py[cod]
+__pycache__/
+
+# Training/corpus data are generated
+/data/raw/train/*
+/data/processed/common/*
+/data/raw/domain/*
+!/data/raw/domain/en/
+/data/raw/domain/en/*
+!/data/raw/domain/en/apollo11.txt

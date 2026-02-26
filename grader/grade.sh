@@ -19,4 +19,4 @@ function run() {
 }
 
 (time run) > $OUT/output 2>$OUT/runtime
-python grader/grade.py $OUT/pred.txt $DATA/answer.txt > $OUT/success
+python3 grader/grade.py $OUT/pred.txt $DATA/answer.txt > $OUT/success

@@ -1,0 +1,141 @@
+# Strong multilingual seed set for spaceflight and mission communications.
+# Titles are English Wikipedia page names used as cross-language anchors.
+
+# Core concepts and operations
+Spaceflight
+Human spaceflight
+Space exploration
+Spacecraft
+Spacecraft propulsion
+Orbital mechanics
+Orbital maneuver
+Low Earth orbit
+Geostationary orbit
+Polar orbit
+Escape velocity
+Atmospheric entry
+Reentry
+Aerobraking
+Space rendezvous
+Docking (aeronautics)
+Extravehicular activity
+Spacewalk
+Spacesuit
+Airlock
+Life-support system
+Space medicine
+Micro-g environment
+Radiation protection
+Space weather
+
+# Communications and control
+Radio communication
+Telemetry
+Telecommand
+Deep Space Network
+Tracking and Data Relay Satellite System
+Guidance, navigation, and control
+Attitude control
+Reaction control system
+Inertial navigation system
+Flight controller
+Mission control center
+S band
+X band
+Ka band
+
+# Vehicles and launch systems
+Rocket
+Multistage rocket
+Liquid-propellant rocket
+Solid-propellant rocket
+Launch vehicle
+Saturn V
+Space Launch System
+Falcon 9
+Falcon Heavy
+Long March 5
+Soyuz-2
+Ariane 5
+Ariane 6
+Proton (rocket family)
+
+# Crewed spacecraft and stations
+Space capsule
+Apollo command and service module
+Apollo Lunar Module
+Soyuz (spacecraft)
+Shenzhou (spacecraft)
+Crew Dragon
+Orion (spacecraft)
+Starship
+Space Shuttle
+International Space Station
+Mir
+Skylab
+Salyut programme
+Tiangong space station
+
+# Agencies and programs
+NASA
+Roscosmos
+European Space Agency
+China National Space Administration
+Indian Space Research Organisation
+Japan Aerospace Exploration Agency
+Canadian Space Agency
+Apollo program
+Gemini program
+Mercury program
+Space Shuttle program
+Artemis program
+Commercial Crew Program
+Lunar Gateway
+
+# Major historical and modern missions
+Sputnik 1
+Vostok 1
+Luna 2
+Luna 9
+Apollo 8
+Apollo 11
+Apollo 13
+Apollo 17
+Soyuz-Apollo
+Viking 1
+Mars Pathfinder
+Spirit (rover)
+Opportunity (rover)
+Curiosity (rover)
+Perseverance (rover)
+Ingenuity (helicopter)
+Mars Science Laboratory
+Mars 2020
+Tianwen-1
+Chang'e 4
+Chang'e 5
+Lunar Reconnaissance Orbiter
+Mars Reconnaissance Orbiter
+Cassini-Huygens
+Galileo (spacecraft)
+Juno (spacecraft)
+Voyager 1
+Voyager 2
+New Horizons
+Parker Solar Probe
+Solar Orbiter
+James Webb Space Telescope
+Hubble Space Telescope
+
+# Planetary and astronomy background
+Moon
+Mars
+Venus
+Mercury (planet)
+Jupiter
+Saturn
+Solar System
+Astronomy
+Astrophysics
+Cosmology
+Exoplanet
