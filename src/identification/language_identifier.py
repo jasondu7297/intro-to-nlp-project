@@ -5,7 +5,7 @@ import unicodedata
 from collections import Counter
 from typing import Iterable, Mapping
 
-from lm.lm_constants import LANGUAGES, LATIN_LANGS, SPACE_RE
+from config.constants import LANGUAGES, LATIN_LANGS, SPACE_RE
 
 ModelState = dict[str, object]
 
@@ -91,7 +91,7 @@ class LanguageIdentifier:
             self.char_vocab.update(self.char_counts[lang].keys())
 
     def _score_latin(self, text: str) -> dict[str, float]:
-        """Score Latin languages with smoothed trigram Naive Bayes."""        
+        """Score Latin languages with smoothed trigram Naive Bayes."""
         grams = self._latin_trigrams(text)
         if not grams:
             return {lang: float("-inf") for lang in LATIN_LANGS}

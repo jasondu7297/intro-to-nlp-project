@@ -5,9 +5,9 @@ import os
 import pickle
 from typing import Iterable, Mapping, Sequence
 
-from lm.char_ngram_model import CharNGramModel
-from lm.language_identifier import LanguageIdentifier
-from lm.lm_constants import LANGUAGES
+from config.constants import LANGUAGES
+from identification.language_identifier import LanguageIdentifier
+from models.char_ngram_model import CharNGramModel
 
 
 class LanguageAwareNGramLM:

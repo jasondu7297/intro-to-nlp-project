@@ -110,11 +110,11 @@ class CharNGramModel:
         # return top-k unique characters by final score
         ranked_chars = sorted(scores.items(), key=lambda kv: (-kv[1], kv[0]))
         guesses = [ch for ch, _ in ranked_chars[:k]]
-        
+
         # pad top-k guess with spaces if insufficient
         while len(guesses) < k:
             guesses.append(" ")
-        
+
         return guesses
 
     def to_state(self) -> ModelState:
