@@ -6,8 +6,8 @@ from data.training_data import BOOTSTRAP_INPUT, load_training_data
 from models.language_aware_lm import LanguageAwareNGramLM
 
 # model defaults
-MAX_ORDER = 8
-TOP_NEXT_CHARS = 16
+MAX_ORDER = 9
+TOP_NEXT_CHARS = 24
 INTERP_ALPHA = 1.5
 
 # CLI defaults
